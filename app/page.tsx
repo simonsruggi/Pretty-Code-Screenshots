@@ -51,8 +51,6 @@ export default function Home() {
                 setPadding={setPadding}
                 borderRadius={borderRadius}
                 setBorderRadius={setBorderRadius}
-                fileName={fileName}
-                setFileName={setFileName}
                 showMacBar={showMacBar}
                 setShowMacBar={setShowMacBar}
               />
