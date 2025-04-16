@@ -1,4 +1,4 @@
-# Pretty Screenshots
+# Pretty Code Screenshots
 
 A Next.js application to create beautiful code screenshots.
 

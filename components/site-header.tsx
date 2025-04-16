@@ -11,7 +11,7 @@ export function SiteHeader() {
         <div className="mr-4 flex">
           <a href="/" className="flex items-center space-x-2">
             <Code className="h-5 w-5 sm:h-6 sm:w-6" />
-            <span className="font-bold text-sm sm:text-base">Pretty Screenshots</span>
+            <span className="font-bold text-sm sm:text-base">Pretty Code Screenshots</span>
           </a>
         </div>
         <div className="flex flex-1 items-center justify-end space-x-2">

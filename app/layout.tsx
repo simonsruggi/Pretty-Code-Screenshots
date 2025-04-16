@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pretty Screenshots",
+  title: "Pretty Code Screenshots",
   description: "Create beautiful code screenshots",
-  authors: [{ name: "Pretty Screenshots" }],
+  authors: [{ name: "Pretty Code Screenshots" }],
 };
 
 export const viewport: Viewport = {

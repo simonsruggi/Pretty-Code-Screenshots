@@ -29,7 +29,7 @@ export default function Home() {
         <div className="flex flex-col gap-6">
           <div className="text-center space-y-2">
             <h1 className="text-2xl sm:text-3xl font-bold tracking-tighter">
-              Pretty Screenshots
+              Pretty Code Screenshots
             </h1>
             <p className="text-sm sm:text-base text-muted-foreground">
               Create beautiful screenshots of your code in seconds.
