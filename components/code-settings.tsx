@@ -27,8 +27,6 @@ interface CodeSettingsProps {
   setPadding: (padding: number) => void;
   borderRadius: number;
   setBorderRadius: (radius: number) => void;
-  fileName: string;
-  setFileName: (name: string) => void;
   showMacBar: boolean;
   setShowMacBar: (show: boolean) => void;
 }
@@ -46,8 +44,6 @@ export function CodeSettings({
   setPadding,
   borderRadius,
   setBorderRadius,
-  fileName,
-  setFileName,
   showMacBar,
   setShowMacBar,
 }: CodeSettingsProps) {

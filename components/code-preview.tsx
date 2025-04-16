@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useRef, useState } from "react";
-import { Card } from "@/components/ui/card";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import * as themes from "react-syntax-highlighter/dist/esm/styles/prism";
 import { toPng } from "html-to-image";
@@ -88,7 +87,7 @@ export function CodePreview({
     }
   };
 
-  // @ts-ignore - themes typing issue
+  // @ts-expect-error - themes typing issue
   const selectedTheme = themes[theme] || themes.dracula;
 
   return (
