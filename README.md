@@ -2,6 +2,10 @@
 
 A Next.js application to create beautiful code screenshots.
 
+Try the live version here:
+
+https://prettycodescreenshots.vercel.app/
+
 ## Features
 
 - Syntax highlighting with support for numerous programming languages
