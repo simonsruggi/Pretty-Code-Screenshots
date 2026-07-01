@@ -46,3 +46,7 @@ https://prettycodescreenshots.vercel.app/
 ## License
 
 MIT
+
+## Support
+
+Pretty-Code-Screenshots is free and open source. If you find it useful, please [⭐️ star the repo](https://github.com/simonsruggi/Pretty-Code-Screenshots) — and if you'd like to support my open-source work, you can [💛 sponsor me on GitHub](https://github.com/sponsors/simonsruggi). Completely optional, always appreciated. 🙏
